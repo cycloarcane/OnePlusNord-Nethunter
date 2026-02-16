@@ -1,9 +1,3 @@
-# OnePlusNord-Nethunter
-
-Resources for the successful installation of rooted and full Nethunter on a OnePlus Nord.
-
----
-
 # Installing Kali NetHunter on OnePlus Nord (avicii)
 
 This guide provides a comprehensive walkthrough for installing Kali NetHunter on a OnePlus Nord (codename: avicii), starting from a stock or bricked state. It covers restoring OxygenOS 10, upgrading to OxygenOS 11, unlocking the bootloader, flashing TWRP, installing a custom NetHunter kernel, rooting with Magisk, and finally installing the NetHunter image.
